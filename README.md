@@ -1,4 +1,4 @@
-# Skin Disorder Prediction (PRCP-1027)
+# Skin Disorder Prediction
 
 Machine learning classifier for six erythemato-squamous skin diseases, built on the UCI Dermatology dataset. The whole project (analysis, modelling, doctor suggestions, model comparison and challenges report) lives in a single Jupyter notebook.
 
